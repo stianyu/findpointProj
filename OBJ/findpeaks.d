@@ -1,0 +1,10 @@
+..\obj\findpeaks.o: ..\FINDPOINT\findpeaks.c
+..\obj\findpeaks.o: ..\FINDPOINT\rt_nonfinite.h
+..\obj\findpeaks.o: F:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+..\obj\findpeaks.o: ..\FINDPOINT\rtwtypes.h
+..\obj\findpeaks.o: ..\FINDPOINT\findpoint.h
+..\obj\findpeaks.o: F:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+..\obj\findpeaks.o: ..\FINDPOINT\findpoint_types.h
+..\obj\findpeaks.o: ..\FINDPOINT\findpeaks.h
+..\obj\findpeaks.o: ..\FINDPOINT\findpoint_emxutil.h
+..\obj\findpeaks.o: ..\FINDPOINT\eml_setop.h
